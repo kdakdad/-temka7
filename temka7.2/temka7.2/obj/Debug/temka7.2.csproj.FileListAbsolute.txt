@@ -1,0 +1,7 @@
+C:\Users\filat\source\repos\temka7.2\temka7.2\bin\Debug\temka7.2.exe.config
+C:\Users\filat\source\repos\temka7.2\temka7.2\bin\Debug\temka7.2.exe
+C:\Users\filat\source\repos\temka7.2\temka7.2\bin\Debug\temka7.2.pdb
+C:\Users\filat\source\repos\temka7.2\temka7.2\obj\Debug\temka7.2.csproj.AssemblyReference.cache
+C:\Users\filat\source\repos\temka7.2\temka7.2\obj\Debug\temka7.2.csproj.CoreCompileInputs.cache
+C:\Users\filat\source\repos\temka7.2\temka7.2\obj\Debug\temka7.2.exe
+C:\Users\filat\source\repos\temka7.2\temka7.2\obj\Debug\temka7.2.pdb
